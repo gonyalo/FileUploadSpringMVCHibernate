@@ -1,5 +1,5 @@
 # FileUploadSpringMVCHibernate
-# sorry for my English. I am trying to improve it.
+
 
 /*****/ index
 
